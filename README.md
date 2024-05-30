@@ -1,3 +1,17 @@
+## 📒 Descrição
+Esta apresentação em slides mostra cinco personagens e uma história pequena para eles.
+
+## 🤖 Tecnologias Utilizadas
+- IA Generativa **[GPT-4](https://chatgpt.com/)** para as descrições e para a história;
+- IA Generativa **[DALL-E 3](https://openart.ai/)** (OpenArt SDXL e OpenArt DnD) para as imagens;
+- Google Slides para a apresentação de tudo.
+
+
+
+
+
+
+
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
