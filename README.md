@@ -11,7 +11,7 @@ Utilizei o GPT-4 para me dar ideias de aparência dos personagens, peguei as mai
 Após a criação dos cinco personagens, utilizei novamente o GPT-4 para a criar uma história de aventura, separada por pequenos capítulos.
 
 ## 🚀 Resultados
-
+**[LINK PARA OS SLIDES](https://docs.google.com/presentation/d/1f3YAfFji9YugNJrr1da_5HWrOv4s-aPjnLw-xWHv_kc/edit?usp=sharing)**
 
 
 
