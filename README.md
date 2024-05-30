@@ -6,6 +6,11 @@ Esta apresentação em slides mostra cinco personagens e uma história pequena p
 - IA Generativa **[DALL-E 3](https://openart.ai/)** (OpenArt SDXL e OpenArt DnD) para as imagens;
 - Google Slides para a apresentação de tudo.
 
+## 🧐 Processo de Criação
+Utilizei o GPT-4 para me dar ideias de aparência dos personagens, peguei as mais interessantes e coloquei no DALL-E para a criação de uma imagem que pudesse mostrar uma possível face e características dos personagens.
+Após a criação dos cinco personagens, utilizei novamente o GPT-4 para a criar uma história de aventura, separada por pequenos capítulos.
+
+## 🚀 Resultados
 
 
 
@@ -49,7 +54,7 @@ Utilizei o GPT-4 para me dar ideias de aparência dos personagens, peguei as mai
 Após a criação dos cinco personagens, utilizei novamente o GPT-4 para a criar uma história de aventura, separada por pequenos capítulos.
 
 ## 🚀 Resultados
-Link para os slides do projeto: https://docs.google.com/presentation/d/1f3YAfFji9YugNJrr1da_5HWrOv4s-aPjnLw-xWHv_kc/edit?usp=sharing
+[Link para os slides do projeto](https://docs.google.com/presentation/d/1f3YAfFji9YugNJrr1da_5HWrOv4s-aPjnLw-xWHv_kc/edit?usp=sharing) 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
